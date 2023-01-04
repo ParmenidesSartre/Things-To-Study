@@ -1,2 +1,55 @@
 # Things-To-Study
-Things To Study
+Just some stuff to check off my study list. Dont want to waste money and time taking master but got no knowledge from it.
+
+### Javascript Concepts
+
+- [ ] Arrow functions
+- [ ] Async/await
+- [ ] Classes
+- [ ] Closures
+- [ ] Constants
+- [ ] Constructors
+- [ ] Default parameters
+- [ ] Destructuring
+- [ ] Enums
+- [ ] For...of loops
+- [ ] Generators
+- [ ] Getters/setters
+- [ ] Hoisting
+- [ ] Inheritance
+- [ ] Interfaces
+- [ ] Iterators
+- [ ] Lambdas
+- [ ] Map and set data structures
+- [ ] Modules
+- [ ] Namespaces
+- [ ] Null coalescing operator
+- [ ] Object initializer shorthand
+- [ ] Optional chaining operator
+- [ ] Overloading
+- [ ] Promises
+- [ ] Proxies
+- [ ] Rest parameters
+- [ ] Spread syntax
+- [ ] Symbol type
+- [ ] Template literals
+- [ ] Ternary operator
+- [ ] This keyword
+- [ ] Type assertions
+- [ ] Type inference
+- [ ] TypeScript
+- [ ] Union and intersection types
+- [ ] Variadic functions
+- [ ] Weak maps and weak sets
+- [ ] Array.prototype.forEach()
+- [ ] Array.prototype.map()
+- [ ] Array.prototype.reduce()
+- [ ] Array.prototype.filter()
+- [ ] Array.prototype.find()
+- [ ] Array.prototype.sort()
+- [ ] Function.prototype.bind()
+- [ ] Function.prototype.call()
+- [ ] Function.prototype.apply()
+- [ ] Function.prototype.toString()
+- [ ] Object.prototype.hasOwnProperty()
+- [ ] Object.prototype.isPrototypeOf()
