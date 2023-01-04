@@ -3,7 +3,7 @@ Just some stuff to check off my study list. Dont want to waste money and time ta
 
 ### Javascript Concepts
 
-- [ ] Arrow functions
+- [x] Arrow functions 
 - [ ] Async/await
 - [ ] Classes
 - [ ] Closures
